@@ -72,7 +72,7 @@ enventa.innerHTML = "En venta";
 vendidos.innerHTML = "Vendidos";
 nuestrosanimales.innerHTML = "Nuestros animales";
     /*Contacto*/
-contacto.innerHTML = "Contacto";
+contacto89.innerHTML = "Contacto";
 contacto1.innerHTML = "Desde esta web, os hemos querido dar una primera impresión de quién somos y qué hacemos. Si estáis interesados en nuestros animales, os podemos enviar más información, fotografias y videos sin ningún compromiso.<br>YEGUADA MOLERO MALO<br>Finca Valdeherreros Alto13370<br> Calzada de Calatrava.<br>CIUDAD REAL<br>Teléfonos- 926 338 203<br>Móviles. 680 422 844 - 680 422 845<br>Código REGA ES130270000146<br>email. info@yeguadamolero.es<br>y en el Google Earth nos puedes encontrar en:Latitud 38º 38'52.74'' y Longitud 3º 39' 13.29'' O";
   }else if(getLanguage ==="english"){
     
@@ -93,7 +93,7 @@ vendidos.innerHTML = "Sold";
 nuestrosanimales.innerHTML = "Our animals";
 
 /*Contacto*/  
-contacto.innerHTML = "Contact";
+contacto89.innerHTML = "Contact";
 contacto1.innerHTML = "From this web, we wanted to show you who we are. If you are interested about our animals, we can share more information with you, photos and videos with no compromise.<br>YEGUADA MOLERO MALO<br>Finca Valdeherreros Alto13370<br> Calzada de Calatrava.<br>CIUDAD REAL<br>Phone- 926 338 203<br>Mobile phone. 680 422 844 - 680 422 845<br>REGA Code ES130270000146<br>email. info@yeguadamolero.es<br>and you can find us on Google Earth: Latitud 38º 38'52.74'' y Longitud 3º 39' 13.29'' O";
   }
   else if(getLanguage ==="deutsch"){
@@ -114,7 +114,7 @@ contacto1.innerHTML = "From this web, we wanted to show you who we are. If you a
       nuestrosanimales.innerHTML = "Unsere Tiere";
 
 /*Contacto*/
-contacto.innerHTML = "Contact";
+contacto89.innerHTML = "Contact";
 contacto1.innerHTML = "Auf dieser Website möchten wir Ihnen einen ersten Eindruck davon vermitteln, wer wir sind und was wir tun. Bei Interesse an unseren Tieren senden wir Ihnen unverbindlich weitere Informationen, Fotos und Videos zu..<br>YEGUADA MOLERO MALO<br>Finca Valdeherreros Alto13370<br> Calzada de Calatrava.<br>CIUDAD REAL<br>elefon- 926 338 203<br>Mobiltelefon. 680 422 844 - 680 422 845<br>REGA-Code ES130270000146<br>E-Mail. info@yeguadamolero.es<br>und Sie finden uns auf Google Earth: Breitengrad 38º 38'52.74'' und Längengrad 3º 39' 13.29'' W";
   }
 }
