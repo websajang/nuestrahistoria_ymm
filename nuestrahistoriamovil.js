@@ -1,32 +1,3 @@
-/* Botones de traducción */
-let espanol = document.getElementById("espanol");
-let english = document.getElementById("english");
-let deutsch = document.getElementById("deutsch");
-
-
-/* Elementos a traduccir */
-
-/*Footer*/
-let footer = document.getElementById("footer")
-/*Navbar*/
-let bienvenidos = document.getElementById("bienvenidos");
-let nuestrahistoria = document.getElementById("nuestrahistoria");
-let enlaactualidad = document.getElementById("enlaactualidad");
-let ubicacion = document.getElementById("ubicacion");
-let contacto = document.getElementById("contacto");
-let sementales = document.getElementById("sementales");
-let caballos = document.getElementById("caballos");
-let yeguas = document.getElementById("yeguas");
-let enventa = document.getElementById("enventa");
-let vendidos = document.getElementById("vendidos");
-let nuestrosanimales = document.getElementById("nuestrosanimales");
-
-/*Nuestra historia*/
-let alprincipio = document.getElementById("alprincipio");
-let alprincipio1 = document.getElementById("alprincipio1");
-let alprincipio2 = document.getElementById("alprincipio2");
-let alprincipio3 = document.getElementById("alprincipio3");
-
 
 /* Eventos de click para cambiar idioma */
 espanol.onclick = ()=>{
