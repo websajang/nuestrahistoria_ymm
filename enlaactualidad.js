@@ -31,7 +31,7 @@ espanol.onclick = ()=>{
 english.onclick = ()=>{
     setLanguage("english");
     localStorage.setItem("Lang","english");
-};
+}; 
 
 deutsch.onclick = ()=>{
     setLanguage("deutsch");
