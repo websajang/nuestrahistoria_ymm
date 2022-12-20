@@ -110,7 +110,7 @@ else if(getLanguage ==="deutsch"){
       yeguas.innerHTML = "Stuten";
       enventa.innerHTML = "Im Angebot";
       vendidos.innerHTML = "Verkauft";
-      nuestrosanimales.innerHTML = "Unsere Tiere";alprincipio.innerHTML = "Über uns";
+      nuestrosanimales.innerHTML = "Unsere Tiere";
 	
 	
 	/*En la actualidad*/
